@@ -173,5 +173,3 @@ In-depth revenue and booking funnel analysis.
 
 ---
 
-## 📷 Dashboard Preview
-C:\Users\Admin\OneDrive\Pictures\Screenshots 1
